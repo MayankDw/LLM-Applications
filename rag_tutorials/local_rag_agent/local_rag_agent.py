@@ -6,7 +6,7 @@ from agno.vectordb.qdrant import Qdrant
 from agno.embedder.ollama import OllamaEmbedder
 from agno.playground import Playground, serve_playground_app
 
-# Define the collection name for the vector database
+# Define the collection name for the vector database.
 collection_name = "thai-recipe-index"
 
 # Set up Qdrant as the vector database with the embedder
