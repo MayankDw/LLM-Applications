@@ -137,7 +137,7 @@ def main():
     to the pharmaceutical industry, upload research documents, and manage API 
     keys for enhanced functionality.
 
-    The main features include:
+    The main features include:-
     - Query input area for users to ask questions about the pharmaceutical industry.
     - Submission button to process the query and display the retrieved insights.
     - Sidebar for API key input and management.
